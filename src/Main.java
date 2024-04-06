@@ -78,5 +78,6 @@ public class Main {
                     System.out.println("Opción no válida!, intente de nuevo.");
             }
         }
+		scanner.close();
     }
 }
